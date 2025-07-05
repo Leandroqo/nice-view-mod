@@ -37,7 +37,7 @@ LV_IMG_DECLARE(kame8);
 LV_IMG_DECLARE(kame9);
 LV_IMG_DECLARE(kame10);
 
-const lv_image_dsc_t *anim_imgs[] = {
+const lv_img_dsc_t *anim_imgs[] = {
     &kame1, &kame2, &kame3, &kame4, &kame5, &kame6, &kame7, &kame8, &kame9, &kame10,
 };
 
